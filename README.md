@@ -10,7 +10,7 @@ I'm Anshika Banyal, a curious College student looking forward to exploring the w
 
 ## 💻 Tech Skills and Interests
 
-- 🛠️ Programming Languages: C, C++, C#, Unity engine, Kotlin, Android studio, Python, SQL.
+- 🛠️ Programming Languages:Python, C, C++, C#, Unity engine, Kotlin, SQL.
 - 💼 Other Skills: Problem-Solving, Communication,.
 - 🚀 Always eager to explore new technologies and frameworks.
 
